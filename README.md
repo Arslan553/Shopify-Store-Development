@@ -7,6 +7,7 @@ Professional Shopify store development, custom store setup, theme customization,
 - Theme Customization
 - Shopify SEO
 ## Projects
+![Banner]( zulfaye 1.png)
 
 ## Technologies
 
